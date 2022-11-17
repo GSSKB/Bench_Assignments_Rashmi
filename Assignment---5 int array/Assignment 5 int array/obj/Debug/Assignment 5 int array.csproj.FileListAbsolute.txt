@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\obj\Debug\Assignment 5 int array.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\obj\Debug\Assignment 5 int array.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\obj\Debug\Assignment 5 int array.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\bin\Debug\Assignment 5 int array.exe.config
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\bin\Debug\Assignment 5 int array.exe
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\bin\Debug\Assignment 5 int array.pdb
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\obj\Debug\Assignment 5 int array.exe
+D:\.NET\Bench Practice\Assignment 5 int array\Assignment 5 int array\obj\Debug\Assignment 5 int array.pdb

@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\bin\Debug\SoftwareAttribute.exe.config
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\bin\Debug\SoftwareAttribute.exe
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\bin\Debug\SoftwareAttribute.pdb
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\obj\Debug\SoftwareAttribute.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\obj\Debug\SoftwareAttribute.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\obj\Debug\SoftwareAttribute.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\obj\Debug\SoftwareAttribute.exe
+D:\.NET\Bench Practice\SoftwareAttribute\SoftwareAttribute\obj\Debug\SoftwareAttribute.pdb
