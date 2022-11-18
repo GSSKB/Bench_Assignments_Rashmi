@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\.NET\Bench Practice\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\.NET\Bench Practice\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\.NET\Bench Practice\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\.NET\Bench Practice\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,7 @@
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\bin\Debug\Area and Circumference of a Circle.exe.config
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\bin\Debug\Area and Circumference of a Circle.exe
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\bin\Debug\Area and Circumference of a Circle.pdb
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\obj\Debug\Area and Circumference of a Circle.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\obj\Debug\Area and Circumference of a Circle.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\obj\Debug\Area and Circumference of a Circle.exe
+D:\.NET\Bench Practice\Area and Circumference of a Circle\Area and Circumference of a Circle\obj\Debug\Area and Circumference of a Circle.pdb

@@ -1,0 +1,8 @@
+D:\.NET\Employee19\Employee19\bin\Debug\Employee19.exe.config
+D:\.NET\Employee19\Employee19\bin\Debug\Employee19.exe
+D:\.NET\Employee19\Employee19\bin\Debug\Employee19.pdb
+D:\.NET\Employee19\Employee19\obj\Debug\Employee19.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Employee19\Employee19\obj\Debug\Employee19.csproj.CoreCompileInputs.cache
+D:\.NET\Employee19\Employee19\obj\Debug\Employee19.exe
+D:\.NET\Employee19\Employee19\obj\Debug\Employee19.pdb
+D:\.NET\Employee19\Employee19\obj\Debug\Employee19.csproj.AssemblyReference.cache

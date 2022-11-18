@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\bin\Debug\AverageMarks.exe.config
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\bin\Debug\AverageMarks.exe
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\bin\Debug\AverageMarks.pdb
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.exe
+D:\.NET\Bench Practice\AverageMarks\AverageMarks\obj\Debug\AverageMarks.pdb
