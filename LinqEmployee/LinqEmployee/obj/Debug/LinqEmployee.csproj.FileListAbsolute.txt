@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\bin\Debug\LinqEmployee.exe.config
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\bin\Debug\LinqEmployee.exe
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\bin\Debug\LinqEmployee.pdb
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\obj\Debug\LinqEmployee.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\obj\Debug\LinqEmployee.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\obj\Debug\LinqEmployee.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\obj\Debug\LinqEmployee.exe
+D:\.NET\Bench Practice\LinqEmployee\LinqEmployee\obj\Debug\LinqEmployee.pdb
